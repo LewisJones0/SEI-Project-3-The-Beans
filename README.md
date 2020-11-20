@@ -27,10 +27,6 @@ ____
 
 # Abstract: Inital Thoughts and Project Overview
 
-The first project I did at General Assembly was to develop a game from a selection of 90's classics. Initally I was planning on doing a version of Snake but after some consideration and push from my mentors, I decided to pivot and do an alternative version of Pac-Man. 
-
-This version of Pacman was inspired by Christian and Ancient Greek stories as well as Dungeon Crawler video games from around the 1990's.
-
 
 
 ____
