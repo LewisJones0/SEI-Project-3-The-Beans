@@ -25,9 +25,9 @@ ____
  (Screenshot Placeholder)
 ____
 
-# Abstract: Inital Thoughts and Project Overview
+# Abstract: Post Project Thoughts and Project Overview
 
-This project introduced a few new variables to developing a product incomparison to the first two projects on the course. This was the first full-stack application that we developed, so developing with Node.js, MongoDB, Express etc. was all a new learning experience. Furthermore, there was more individuals codeveloping on the same codebase, so developing the skills of managing git, github, branches, development with three people was extreamly valuable. 
+This project introduced a few new variables to developing a product incomparison to the first two projects on the course. This was the first full-stack application that we developed, so developing with Node.js, MongoDB, Express etc. was all a new learning experience. Furthermore, there was more individuals co-developing on the same codebase, so developing the skills of managing git, github, branches, development with three people was extreamly valuable. 
 
 This project also helped me develop a understanding of more complicated project planning. Our team of three individuals all had to develop the idea of the product, what would be the MVP, how the work should be split up, who will focus on what features & a timeline of when the features should be finsihed. Spending hours developing this as a team taught me about how developing software isn't just about writing code, but rather that proper organisation and planning is able to give clarity on the vision of the product, generate forsight about potential roadblockers, as well as 
 
