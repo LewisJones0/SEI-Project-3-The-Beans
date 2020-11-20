@@ -42,7 +42,7 @@ class BeansIndex extends React.Component {
       roastType: roastFilter,
       sliderValue: sliderValue
     })
-  }
+  } 
 
   async grabAllBeans() {
     const roastFilter = 'All'
