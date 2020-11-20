@@ -55,16 +55,19 @@ ____
  # Back-End Functionality I developed
 
 ## User Account Controllers
- (Screenshot Placeholder)
+![AccountAddressControl](/readmePictures/AccountAddressControl.png)
 
  ## User Account Favourite Controllers
- (Screenshot Placeholder)
+![AccountFavsControl](/readmePictures/AccountFavsControl.png)
+
+ ## Roaster Controllers
+![AccountFavsControl](/readmePictures/AccountFavsControl.png)
 
  ## User Models
- (Screenshot Placeholder)
+![UserModel](/readmePictures/UserModel.png)
 
   ## Roaster Models
- (Screenshot Placeholder)
+![UserModel](/readmePictures/UserModel.png)
 ____
 
 # Successes, Challenges and Bugs
@@ -73,6 +76,7 @@ One of the biggest successes, challenges and problems for me in this project was
 
 1. Filter by Price (Slider)
 (ScreenshotPlaceholder)
+
 2. Filter by Roast type 
 (ScreenshotPlaceholder)
 
@@ -80,18 +84,8 @@ One of the issues I had with it during the development of the project was that I
 
 Due to time constraints, I decided to keep them seperate.
 
-1: Price filteration would be done on the frontend, with a .filter method. This would then setState of the data that had a price equivilant to the one requested by the price slider.
-2: Roast filteration would be done through a checkbox with the value string of the roast inside it. This would then set the state of the data displayed.
+1. Price filteration would be done on the frontend, with a .filter method. This would then setState of the data that had a price equivilant to the one requested by the price slider.
+
+2. Roast filteration would be done through a checkbox with the value string of the roast inside it. This would then set the state of the data displayed.
 
 Both of the filters worked indepentantly but whenever a user wanted to utilise the other filter - I had to reset the data back to its original and apply the new filter to it. This is not a user experience I would be impressed with in a professional product and its a shame I didn't find the time to develop it more. 
-
-____
-
-### Code Example
-____
-
-____
-### Bugs
-
-____
-____
