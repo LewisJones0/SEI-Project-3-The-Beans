@@ -6,7 +6,9 @@
 - **App** - E-commerce Website
 - **Technologies Used** - React, JavaScript, Node.js, React-router-dom, React-Bootstrap, Axios, Sass, Express, MongoDB, Mongoose, React-tostify 
 - **Developer Tools** - VSCode, Eslint, Git, GitHub, NPM
-- **Teammates** - 3
+- **Teammates** - 3 ([Natalie Hurst-Knight](https://github.com/nhurstknight/), [Shahab Khan](https://github.com/izzleshab) and myself)
+
+
 ____
 
 ### Brief
