@@ -29,7 +29,7 @@ ____
 
 # Abstract: Post Project Thoughts and Project Overview
 
-This project introduced a few new variables to developing a product incomparison to the first two projects on the course. This was the first full-stack application that we developed, so developing with Node.js, MongoDB, Express etc. was all a new learning experience. Furthermore, there was more individuals co-developing on the same codebase, so developing the skills of managing git, github, branches, development with three people was extreamly valuable. 
+This project introduced a few new variables to developing a product in comparison to the first two projects on the course. This was the first full-stack application that we developed, so developing with Node.js, MongoDB, Express etc. was all a new learning experience. Furthermore, there were more individuals co-developing on the same codebase, so developing the skills of managing git, github, branches, development with three people was extremely valuable. 
 
 This project also helped me develop a understanding of more complicated project planning. Our team of three individuals all had to develop the idea of the product, what would be the MVP, how the work should be split up, who will focus on what features & a timeline of when the features should be finished.
 
