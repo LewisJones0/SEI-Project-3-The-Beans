@@ -33,43 +33,6 @@ This project also helped me develop a understanding of more complicated project 
 
  Spending hours developing this as a team taught me about how developing software isn't just about writing code, but rather that proper organisation and planning is crucial to be able to gather clarity on the vision of the product and generate forsight about potential roadblockers, as well as decompartmentalising the workload off into sections and splitting it fairly between teammates.
 
-
-
-____
-
-# Front-End Functionality I developed
-
-## Beans Index Filters
- (Screenshot Placeholder)
-
-## Favourites 
- (Screenshot Placeholder)
-
- ## Profile Edit
- (Screenshot Placeholder)
-
- ## Roaster Index
- (Screenshot Placeholder)
-
-
- # Back-End Functionality I developed
-
-## User Account Controllers
-![AccountAddressControl](/readmePictures/AccountAddressControl.png)
-
- ## User Account Favourite Controllers
-![AccountFavsControl](/readmePictures/AccountFavsControl.png)
-
- ## Roaster Controllers
-![AccountFavsControl](/readmePictures/AccountFavsControl.png)
-
- ## User Models
-![UserModel](/readmePictures/UserModel.png)
-
-  ## Roaster Models
-![UserModel](/readmePictures/UserModel.png)
-____
-
 # Successes, Challenges and Bugs
 
 One of the biggest successes, challenges and problems for me in this project was the filtration system on the Beans Index page. This section taught me alot about how to handle data recieved from the backend to produce a user experience where a customer can search through the products on the ecommerce website by specifed parameters. The parameters I focused on creating for this product were:
@@ -89,3 +52,39 @@ Due to time constraints, I decided to keep them seperate.
 2. Roast filteration would be done through a checkbox with the value string of the roast inside it. This would then set the state of the data displayed.
 
 Both of the filters worked indepentantly but whenever a user wanted to utilise the other filter - I had to reset the data back to its original and apply the new filter to it. This is not a user experience I would be impressed with in a professional product and its a shame I didn't find the time to develop it more. 
+____
+# Product Examples
+
+## Front-End Functionality I developed
+
+### Beans Index Filters
+ (Screenshot Placeholder)
+
+### Favourites 
+ (Screenshot Placeholder)
+
+ ### Profile Edit
+ (Screenshot Placeholder)
+
+ ### Roaster Index
+ (Screenshot Placeholder)
+
+
+ ## Back-End Functionality I developed
+
+### User Account Controllers
+![AccountAddressControl](/readmePictures/AccountAddressControl.png)
+
+ ### User Account Favourite Controllers
+![AccountFavsControl](/readmePictures/AccountFavsControl.png)
+
+ ### Roaster Controllers
+![AccountFavsControl](/readmePictures/AccountFavsControl.png)
+
+ ### User Models
+![UserModel](/readmePictures/UserModel.png)
+
+  ### Roaster Models
+![UserModel](/readmePictures/UserModel.png)
+____
+
