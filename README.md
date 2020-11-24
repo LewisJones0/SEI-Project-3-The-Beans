@@ -66,22 +66,35 @@ Due to time constraints, I decided to keep them seperate.
 2. Roast filteration would be done through a checkbox with the value string of the roast inside it. This would then set the state of the data displayed.
 
 Both of the filters worked indepentantly but whenever a user wanted to utilise the other filter - I had to reset the data back to its original and apply the new filter to it. This is not a user experience I would be impressed with in a professional product and its a shame I didn't find the time to develop it more. 
+
+## Key Learnings 
+1. Extensive planning and time management is successful to group & large corporate projects
+2. Work should be divided fairly and equally depending on the skill level of participants in the group (e.g. in a work enviroment from junior to senior)
+3. Some features may take longer to develop than planned - and that's okay. Just spend some time to rework the plan
+
+## Future Features
+1. Add additional features onto the checkout so the frontend could actually make a API transaction to paypal/visa
+2. Two factor authentication on a user account.
+3. Add an "Admin" user interface so that Roasters can add and remove their own products from the website as well as change pictures of the products and details.
+
 ____
-# Product Examples
+
+# Code Examples
 
 ## Front-End Functionality I developed
 
 ### Beans Index Filters
- (Screenshot Placeholder)
+![Beans Index Filters](/readmePictures/BeansPageFilter.png)
 
-### Favourites 
- (Screenshot Placeholder)
+### Profile Page and Favourites 
+![Profile Page and Favourites](/readmePictures/ProfilePage.png)
 
- ### Profile Edit
- (Screenshot Placeholder)
+ ### User Checkout Address Edit
+![User Checkout Address Edit](/readmePictures/AddressEdit.png)
 
  ### Roaster Index
- (Screenshot Placeholder)
+![Roaster Index](/readmePictures/RoasterPage.png)
+__________
 
 
  ## Back-End Functionality I developed
