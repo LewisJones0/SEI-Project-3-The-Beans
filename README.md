@@ -11,9 +11,9 @@
 
 ____
 
-### Brief
+## Brief
 
-Full-Stack MERN application
+#### Full-Stack MERN application
 
 - Create a Full-Stack application
 - Utilise Express to serve API data to a MongoDB database
@@ -21,6 +21,15 @@ Full-Stack MERN application
 - Complete product with multiple relationships on the backend and utilised in the front-end (CRUD functionality for atleast 2 models)
 - Professional and "Final product" feel to the styling
 - Deploy the final product online
+
+### Features I developed on the project
+1. Roaster Index Page (Front-end)
+2. Roaster Show Page (Front-end)
+3. Beans filter functionality on Beans Index page (Front-end)
+4. All user profile functionality - account favourites, account edit details, account address edit, profile page (Front-end)
+5. User Accounts - all of the above functionality but the back-end version - models & controllers. (Back-end)
+6. Roasters models & controllers (Back-end)
+
 ____
 
 ## Frontpage
@@ -31,9 +40,12 @@ ____
 
 This project introduced a few new variables to developing a product in comparison to the first two projects on the course. This was the first full-stack application that we developed, so developing with Node.js, MongoDB, Express etc. was all a new learning experience. Furthermore, there were more individuals co-developing on the same codebase, so developing the skills of managing git, github, branches, development with three people was extremely valuable. 
 
+## Splitting the workload: 
 This project also helped me develop a understanding of more complicated project planning. Our team of three individuals all had to develop the idea of the product, what would be the MVP, how the work should be split up, who will focus on what features & a timeline of when the features should be finished.
 
- Spending hours developing this as a team taught me about how developing software isn't just about writing code, but rather that proper organisation and planning is crucial to be able to gather clarity on the vision of the product and generate forsight about potential roadblockers, as well as decompartmentalising the workload off into sections and splitting it fairly between teammates.
+Spending hours developing this as a team taught me about how developing software isn't just about writing code, but rather that proper organisation and planning is crucial to be able to gather clarity on the vision of the product and generate forsight about potential roadblockers, as well as decompartmentalising the workload off into sections and splitting it fairly between teammates.
+
+We decided to mix up the jobs and roles so everybody got to experience developing different sections of the product (front-end and back-end). This split was roughly 50/50. In regards to time management, we did attempt to plan out how long it would take to develop each feature - this type of planning was a essential learning tool it the time it took to actually develop some features was alot logner than anticipated.
 
 # Successes, Challenges and Bugs
 
