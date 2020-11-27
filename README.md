@@ -33,7 +33,7 @@ ____
 ____
 
 ## Frontpage
- (Screenshot Placeholder)
+![AccountAddressControl](/readmePictures/homepageTheBeans.png)
 ____
 
 # Abstract: Post Project Thoughts and Project Overview
@@ -81,23 +81,18 @@ ____
 
 # Code Examples
 
-## Front-End Functionality I developed
+## Front-End 
 
-### Beans Index Filters
-![Beans Index Filters](/readmePictures/BeansPageFilter.png)
+### Product Index
+![AccountAddressControl](/readmePictures/beansindexTheBeans.png)
 
-### Profile Page and Favourites 
-![Profile Page and Favourites](/readmePictures/ProfilePage.png)
+ ### Product Details
+![AccountAddressControl](/readmePictures/beansshowTheBeans.png)
 
- ### User Checkout Address Edit
-![User Checkout Address Edit](/readmePictures/AddressEdit.png)
-
- ### Roaster Index
-![Roaster Index](/readmePictures/RoasterPage.png)
 __________
 
 
- ## Back-End Functionality I developed
+ ## Back-End
 
 ### User Account Controllers
 ![AccountAddressControl](/readmePictures/AccountAddressControl.png)
