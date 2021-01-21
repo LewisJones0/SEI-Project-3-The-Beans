@@ -19,7 +19,7 @@ mongoose.connect(
       return
     }
     try {
-      await mongoose.connection.db.dropDatabase()//Delete Prior Database
+      // await mongoose.connection.db.dropDatabase()//Delete Prior Database
 
       console.log('Database Dropped 💧')
 
