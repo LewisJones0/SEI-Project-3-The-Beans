@@ -9,7 +9,7 @@
     "@popperjs/core": "^2.5.4",
     "@reduxjs/toolkit": "^1.4.0",
     "antd": "^4.6.6",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.2",
     "eslint-plugin-react": "^7.21.2",
     "http-proxy-middleware": "^1.0.5",
