@@ -21,35 +21,17 @@ mongoose.connect(
     try {
       // await mongoose.connection.db.dropDatabase()//Delete Prior Database
 
-      console.log('Database Dropped 💧')
-
       const beans = await Beans.create(beansData)
+      console.log(` ☕️ ${beans.length} products created ☕️`)
+
       const roasters = await Roasters.create(roasterData)
+      console.log(` ☕️ ${roasters.length} roasters created ☕️`)
+
       const users = await Users.create(userData)
-
-      for (let index = 0; index < 100; index++) { // ! looping to created 300 users
-        const username = faker.internet.userName() // ! generating a fake username
-        const firstName = faker.name.firstName() // ! A fake first name
-        const lastName = faker.name.lastName() // ! A fake last name
-        const email = `${firstName}${lastName}@email.com` // ! concatening them together to make the email
-        const profileImage = faker.image.avatar() // ! and a fake profile image
-        users.push({
-          username,
-          firstName,
-          lastName,
-          email,
-          profileImage,
-          password: 'pass', // ! setting all the passwords the same
-          passwordConfirmation: 'pass'
-        })
-      }
-
       const createdUsers = await Users.create(users)
+      console.log(` ☕️ ${createdUsers.length} users created ☕️`)
   
 
-      console.log(` ☕️ ${beans.length} products created ☕️`)
-      console.log(` ☕️ ${roasters.length} roasters created ☕️`)
-      console.log(` ☕️ ${createdUsers.length} users created ☕️`)
 
     } catch (err) {
       console.log(err) // Any error? Log it
